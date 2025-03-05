@@ -3,7 +3,7 @@ First of all create a namespace if not yet created:
 kubectl apply -f .infrastructure/namespace.yml
 ```
 
-Than start deployment by:
+Then start deployment by:
 ```
 kubectl apply -f .infrastructure/deployment.yml
 ```
